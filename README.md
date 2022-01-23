@@ -2,3 +2,4 @@
 
 **Group Members**
 * Ryan Jackson
+* Richard Li
